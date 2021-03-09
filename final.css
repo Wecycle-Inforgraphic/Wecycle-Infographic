@@ -14,7 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   background: rgb(255, 255, 255);
-  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 10%, #b9e2ff 100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 10%, #a6d8fc 100%);
 }
 
 h1 {
