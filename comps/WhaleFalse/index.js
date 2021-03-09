@@ -17,7 +17,7 @@ function WhaleFalse(){
             color:#0E97FA;
         '>
             <p><strong>Incorrect!</strong></p>
-            <p> just like Wendy, sperm whales are the most common species to die from ingesting plastic</p>
+            <p> Just like Wendy, sperm whales are the most common species to die from ingesting plastic</p>
         </div>
     </div>
     

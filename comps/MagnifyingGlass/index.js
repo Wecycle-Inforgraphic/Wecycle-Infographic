@@ -35,7 +35,7 @@ function MagnifyingGlass(img = "../public/Images/closerlook.png"){
                 font-size:22px;
                 
                 "
-                >They are tiny broken <br> down pieces of plastic <br> that is found everywhere! <br> Even in our bodies<p>
+                >They are tiny broken <br> down pieces of plastic <br> that is found everywhere! <br> Even in our bodies!<p>
             <div>
             
         <div>
