@@ -21,6 +21,7 @@ function GardenUI()
     align-items: center;
     left: 0;
     top: 0;
+    height:440px;
     width: 100vw;
     background-color: #DE9252;
     transition: opacity 1s;
@@ -57,6 +58,7 @@ function GardenUI()
     align-items: center;
     left: 0;
     top: 0;
+    height:440px;
     width: 100vw;
     transition: opacity 1s;
     opacity: 0;
