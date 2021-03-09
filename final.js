@@ -64,6 +64,10 @@ document.querySelector(".items2").innerHTML += ItemsUI("./common-items/imgs/wrap
 //URBAN CITIES HEADER
 document.querySelector(".urban-head").innerHTML += SubCatUI("HOW ARE URBAN <br> CITIES AFFECTED?", "center", "#0D203D", "100px")
 
+// CITY
+document.querySelector(".cityimage").innerHTML += CityUI()
+
+
 //car scrolling
 document.querySelector(".car-scroll").innerHTML += CarUI()
 

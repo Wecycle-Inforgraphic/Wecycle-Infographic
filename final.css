@@ -262,18 +262,17 @@ h1 {
 .urban {
   display: flex;
   justify-content: center;
-
   flex-direction: row;
   width: 100%;
-  height: 2000px;
   background-color: #c5e5c8;
 }
 
-.cityscape > img {
-  width: 100vw;
-  position: relative;
-  top: 450px;
+.cityscape {
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
+
 .urban-left {
   display: flex;
   flex: 3;
